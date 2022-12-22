@@ -1,4 +1,4 @@
 # Advent of Code 2022
 https://adventofcode.com/
 
-Going to try using Haskell each day >:)
+My solutions to the annual Advent of Code puzzles. Going to try using Haskell each day >:)
